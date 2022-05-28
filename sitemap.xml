@@ -29,15 +29,6 @@
   </url>
   
   <url>
-    <loc>https://blog.guxinlei.tk/about/index.html</loc>
-    
-    <lastmod>2022-05-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.guxinlei.tk/av/index.html</loc>
     
     <lastmod>2022-05-28</lastmod>
@@ -47,16 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.guxinlei.tk/contact/index.html</loc>
-    
-    <lastmod>2022-05-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.guxinlei.tk/friends/index.html</loc>
+    <loc>https://blog.guxinlei.tk/about/index.html</loc>
     
     <lastmod>2022-05-28</lastmod>
     
@@ -74,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://blog.guxinlei.tk/jihua/index.html</loc>
+    <loc>https://blog.guxinlei.tk/friends/index.html</loc>
     
     <lastmod>2022-05-28</lastmod>
     
@@ -93,6 +75,24 @@
   
   <url>
     <loc>https://blog.guxinlei.tk/navigate/index.html</loc>
+    
+    <lastmod>2022-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.guxinlei.tk/jihua/index.html</loc>
+    
+    <lastmod>2022-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.guxinlei.tk/contact/index.html</loc>
     
     <lastmod>2022-05-28</lastmod>
     
@@ -146,15 +146,6 @@
   </url>
   
   <url>
-    <loc>https://blog.guxinlei.tk/posts/2.html</loc>
-    
-    <lastmod>2022-05-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.guxinlei.tk/posts/1.html</loc>
     
     <lastmod>2022-05-28</lastmod>
@@ -165,6 +156,15 @@
   
   <url>
     <loc>https://blog.guxinlei.tk/posts/5.html</loc>
+    
+    <lastmod>2022-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.guxinlei.tk/posts/2.html</loc>
     
     <lastmod>2022-05-28</lastmod>
     
@@ -214,27 +214,6 @@
   </url>
   
   <url>
-    <loc>https://blog.guxinlei.tk/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.guxinlei.tk/tags/%E8%AF%B7%E7%9B%B8%E4%BF%A1%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.guxinlei.tk/tags/%E7%AE%80%E8%B0%B1/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.guxinlei.tk/tags/%E7%94%B5%E8%84%91%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -270,6 +249,20 @@
   </url>
   
   <url>
+    <loc>https://blog.guxinlei.tk/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.guxinlei.tk/tags/%E8%AF%B7%E7%9B%B8%E4%BF%A1%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.guxinlei.tk/tags/%E7%94%B5%E8%84%91%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -285,6 +278,13 @@
   
   <url>
     <loc>https://blog.guxinlei.tk/tags/%E4%B8%AA%E6%80%A7%E5%8C%96/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.guxinlei.tk/tags/%E7%AE%80%E8%B0%B1/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -307,14 +307,14 @@
   </url>
   
   <url>
-    <loc>https://blog.guxinlei.tk/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://blog.guxinlei.tk/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.guxinlei.tk/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://blog.guxinlei.tk/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
