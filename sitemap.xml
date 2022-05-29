@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://blog.guxinlei.tk/tags/index.html</loc>
+    <loc>https://blog.guxinlei.tk/time/index.html</loc>
     
     <lastmod>2022-05-28</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://blog.guxinlei.tk/time/index.html</loc>
+    <loc>https://blog.guxinlei.tk/tags/index.html</loc>
     
     <lastmod>2022-05-28</lastmod>
     
@@ -218,20 +218,6 @@
 
   
   <url>
-    <loc>https://blog.guxinlei.tk/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.guxinlei.tk/tags/%E8%AF%B7%E7%9B%B8%E4%BF%A1%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.guxinlei.tk/tags/%E9%9F%B3%E4%B9%90/</loc>
     <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -240,6 +226,20 @@
   
   <url>
     <loc>https://blog.guxinlei.tk/tags/%E6%9B%B2%E8%B0%B1/</loc>
+    <lastmod>2022-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.guxinlei.tk/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.guxinlei.tk/tags/%E8%AF%B7%E7%9B%B8%E4%BF%A1%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -318,14 +318,14 @@
 
   
   <url>
-    <loc>https://blog.guxinlei.tk/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://blog.guxinlei.tk/categories/%E9%9F%B3%E4%B9%90%E6%9B%B2%E8%B0%B1/</loc>
     <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.guxinlei.tk/categories/%E9%9F%B3%E4%B9%90%E6%9B%B2%E8%B0%B1/</loc>
+    <loc>https://blog.guxinlei.tk/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
